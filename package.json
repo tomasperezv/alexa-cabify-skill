@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/tomasperezv/alexa-cabify-skill/issues"
   },
-  "homepage": "https://github.com/tomasperezv/alexa-cabify-skill#readme"
+  "homepage": "https://github.com/tomasperezv/alexa-cabify-skill#readme",
+  "dependencies": {
+    "alexa-app": "^3.0.0"
+  }
 }
