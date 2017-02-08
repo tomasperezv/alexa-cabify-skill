@@ -1,5 +1,5 @@
 {
-  "name": "alexa-cabify-skill",
+  "name": "cabify",
   "version": "1.0.0",
   "description": "An Amazon Alexa skill for Cabify",
   "main": "index.js",
