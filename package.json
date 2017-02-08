@@ -1,0 +1,26 @@
+{
+  "name": "alexa-cabify-skill",
+  "version": "1.0.0",
+  "description": "An Amazon Alexa skill for Cabify",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasperezv/alexa-cabify-skill.git"
+  },
+  "keywords": [
+    "amazon",
+    "echo",
+    "alexa",
+    "skill",
+    "cabify"
+  ],
+  "author": "Tomas Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasperezv/alexa-cabify-skill/issues"
+  },
+  "homepage": "https://github.com/tomasperezv/alexa-cabify-skill#readme"
+}
